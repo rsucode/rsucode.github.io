@@ -485,7 +485,7 @@ main {
 .about .article-title { margin-bottom: 15px; }
 
 .about-text {
-  color: hsla(240, 1%, 17%, 0.75);
+  color: var(--onyx);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
