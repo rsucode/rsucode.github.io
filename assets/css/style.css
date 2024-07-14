@@ -142,7 +142,7 @@ input, textarea {
 
 html { font-family: var(--ff-poppins); }
 
-body { background: var(--smoky-black); }
+body { background: var(--white-1); }
 
 
 
@@ -154,8 +154,8 @@ body { background: var(--smoky-black); }
 
 .sidebar,
 article {
-  background: var(--eerie-black-2);
-  border: 1px solid var(--jet);
+  background: var(--white-1);
+  border: 1px solid var(--light-gray);
   border-radius: 20px;
   padding: 15px;
   box-shadow: var(--shadow-1);
