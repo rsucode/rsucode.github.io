@@ -2,23 +2,21 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Renn Su
+Renn Su
+Full Stack Software Engineer
+Stanford Computer Science
 
 Show Contacts
 
 Email
-richard@example.com
+rrsu@stanford.edu
 
 Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
++1 (650) 472-7800
 
 Location
-Sacramento, California, USA
+Palo Alto, California, USA
 
 # navbar
 
