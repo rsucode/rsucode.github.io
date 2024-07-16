@@ -54,6 +54,7 @@
   --vegas-gold: hsl(45, 54%, 58%);
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
+  --dark-gray: hsla(0, 0%, 20%, 1);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
 
   /**
@@ -211,7 +212,7 @@ article.active {
 .h3,
 .h4,
 .h5 {
-  color: var(--onyx);
+  color: var(--dark-gray);
   text-transform: capitalize;
 }
 
